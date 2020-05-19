@@ -1,0 +1,11 @@
+## Interface: 80300
+## Title: Alchy
+## Author: Jason
+## Version: 1.0
+## SavedVariables: AlchyDatabase
+
+libs\LibStub.lua
+libs\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1.lua
+
+Alchy.lua
